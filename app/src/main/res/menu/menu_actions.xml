@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_actualizar"
+        android:title="@string/actualizar"
+        android:icon="@drawable/ic_actualizar"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_favoritos"
+        android:title="@string/favoritos"
+        android:icon="@drawable/ic_favoritos"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_cerrar_sesion"
+        android:title="@string/cerrar_sesion" />
+</menu>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Valores Economicos</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingresa_tu_nombre_y_apellido">Ingresa tu nombre y apellido</string>
+    <string name="nombre_y_apellido">Nombre y apellido</string>
+    <string name="ingresa_tu_contrasena">Ingresa tu contraseña</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="ingresa_tu_correo_electronico">Ingresa tu correo electrónico</string>
+    <string name="rut">Rut</string>
+    <string name="ingresa_tu_rut">Ingresa tu rut</string>
+    <string name="volver">Volver</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="indicadores_economicos_hoy">{Indicadores económicos: hoy}</string>
+    <string name="consulta_valores">Consulta valores</string>
+    <string name="tu_ayudante_financiero">Tu ayudante financiero</string>
+    <string name="simbolo_del_dolar">Simbolo del dolar</string>
+    <string name="inicio_de_sesi_n">Inicio de sesión</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="seleccione_tipo_de_moneda_e_ingrese_un_monto">Seleccione tipo de moneda e ingrese un monto</string>
+    <string name="comto_a_convertir">Comto a convertir</string>
+    <string name="signo_igual">=</string>
+    <string name="euro">Euro</string>
+    <string name="uf">UF</string>
+    <string name="ivp">IVP</string>
+    <string name="dolar_intercambio">Dolar intercambio</string>
+    <string name="ipc">IPC</string>
+    <string name="utm">UTM</string>
+    <string name="imacec">IMACEC</string>
+    <string name="tpm">TPM</string>
+    <string name="libra_de_cobre">Libra de cobre</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="registro_de_usuario">Registro de usuario</string>
+    <string name="tasa_de_desempleo_hoy">{Tasa de desempleo: hoy}</string>
+    <string name="tasa_de_desempleo">Tasa de desempleo</string>
+    <string name="informaci_n_e_historial_de_valores">Información e listadoHistorial de valores</string>
+    <string name="pesos_chilenos">Pesos chilenos</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="seguro_a_que_quieres_cerrar_sesion">¿Seguro/a que quieres cerrar sesión?</string>
+    <string name="clp">CLP</string>
+    <string name="dolar">Dolar</string>
+    <string name="pesos">Pesos</string>
+    <string name="resultado">Resultado</string>
+    <string name="ingresa_el_valor">Ingresa el valor</string>
+    <string name="historial_de_valores">Historial de valores</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="ingrese_anio_de_consulta">Ingrese año de consulta</string>
+    <string name="consultar">Consultar</string>
+    <string name="favoritos">Favoritos</string>
+    <string-array name="tipos_monedas">
+        <item>Pesos</item>
+        <item>Dolar</item>
+        <item>Dolar intercambio</item>
+        <item>Euro</item>
+        <item>UTM</item>
+        <item>UF</item>
+        <item>IVP</item>
+        <item>IPC</item>
+        <item>TPM</item>
+        <item>IMACEC</item>
+        <item>Bitcoin</item>
+        <item>Libra de cobre</item>
+    </string-array>
+</resources>

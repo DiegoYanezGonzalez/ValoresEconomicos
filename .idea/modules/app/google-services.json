@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351365183930",
+    "firebase_url": "https://valores-economicos.firebaseio.com",
+    "project_id": "valores-economicos",
+    "storage_bucket": "valores-economicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351365183930:android:947c07d089f57bc78ec583",
+        "android_client_info": {
+          "package_name": "com.example.valoreseconomicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351365183930-mugj4hvnshsj3vim38hvtv8p350pij83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.valoreseconomicos",
+            "certificate_hash": "278f3a7cac34c282a6feb2ef5d945fee1071ff01"
+          }
+        },
+        {
+          "client_id": "351365183930-10nfvursphu07t8apppplgjgj6p3h7t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPQJtEo9181Ohiu44Vqh5lsYvEr3ct3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351365183930-10nfvursphu07t8apppplgjgj6p3h7t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
